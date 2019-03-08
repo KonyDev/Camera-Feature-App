@@ -60,7 +60,7 @@ After a successful preview build, you will see a pop-up with a QR code. You can 
 
 
 
-### Supported platforms for Kony Visualizer Enterprise and Kony Visualizer
+### Supported platforms
 **Mobile**
  * android
  * iPhone
