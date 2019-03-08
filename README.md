@@ -36,13 +36,13 @@ Kony Visualizer 8.4
 Kony Visualizer App Viewer
 Android Studio IDE (Specific to Android device users)
 
-### Import the App
+#### Import the App
 To import the Camera Feature app into your workspace follow the given steps:
 
 1.Open Kony Visualizer.
 2.On the menu bar go to File -> Import -> Open as New Project.
 
-### Preview the App
+#### Preview the App
 After importing the Camera Feature app, you can preview the app in your mobile device by using Kony Visualizer App Viewer.
 
 Note: To preview the app, make sure you install the latest version of the Kony Visualizer App Viewer on your mobile device from the iOS App Store or the Google Play Store.
