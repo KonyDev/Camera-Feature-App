@@ -31,10 +31,10 @@ Pinch and Zoom for Image
  ## Prerequisites:
  Before you start previewing the Camera Feature app on your Mobile device, ensure that you have the following: 
 
-A Kony Account
-Kony Visualizer 8.4
-Kony Visualizer App Viewer
-Android Studio IDE (Specific to Android device users)
+*A Kony Account
+*Kony Visualizer 8.4
+*Kony Visualizer App Viewer
+*Android Studio IDE (Specific to Android device users)
 
 #### Import the App
 To import the Camera Feature app into your workspace follow the given steps:
