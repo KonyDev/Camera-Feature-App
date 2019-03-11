@@ -60,7 +60,8 @@ Note: In Kony Visualizer Enterprise Edition, if you want to reconfigure the appl
 After a successful preview build, you will see a pop-up with a QR code. You can scan this QR code from the Kony Visualizer App Viewer app on your mobile to preview the app in your mobile device.
 
 
-### Supported platforms
+## Supported platforms
+
 **Mobile**
  * Android
  * iPhone
