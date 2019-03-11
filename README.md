@@ -62,7 +62,7 @@ After a successful preview build, you will see a pop-up with a QR code. You can 
 
 ### Supported platforms
 **Mobile**
- * android
+ * Android
  * iPhone
 
 
